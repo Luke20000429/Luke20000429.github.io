@@ -104,6 +104,13 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# comment provider
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
 
 # Defaults
 defaults:
