@@ -40,7 +40,7 @@ plugins:
 author:
   name             : "Xueshen Liu"
   avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CSE Ph.D at Umich"
+  bio              : "CSE Ph.D at UMich"
   location         : "Ann Arbor, MI"
   email            : "liuxs@umich.edu"
   uri              :
