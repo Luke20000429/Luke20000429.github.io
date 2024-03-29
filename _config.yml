@@ -39,7 +39,7 @@ plugins:
 # Site Author
 author:
   name             : "Xueshen Liu"
-  avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-head.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CSE Ph.D at UMich"
   location         : "Ann Arbor, MI"
   email            : "liuxs@umich.edu"
