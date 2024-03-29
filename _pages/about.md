@@ -6,7 +6,7 @@ comments: true
 author_profile: true
 ---
 
-My name is Xueshen Liu (刘学深). I am a second-year Ph.D. candidate in Computer Science and Engineering Division at the University of Michigan, advised by Prof. [**Z. Morley Mao**](https://web.eecs.umich.edu/~zmao/). My research focus on buidling systems that bridging the gap between software and hardware.
+My name is Xueshen Liu (刘学深). I am a second-year Ph.D. candidate in Computer Science and Engineering Division at the University of Michigan, advised by Prof. [**Z. Morley Mao**](https://web.eecs.umich.edu/~zmao/). My research focus on building systems bridging the gap between software and hardware.
 
 ### Education:
 - **University of Michigan** (2022 - )   
@@ -18,6 +18,6 @@ My name is Xueshen Liu (刘学深). I am a second-year Ph.D. candidate in Comput
 
 
 
-### Softwares:
+### Software:
 - [**Minimap2-gigabase**](https://github.com/Minimap2onGPU/minimap2.git):      
 	Minimap2-gigabase (mm2-gb) is based on minimap2-v2.24 with GPU accelerated chaining kernel for high throughput accurate mapping of ultra-long reads.
