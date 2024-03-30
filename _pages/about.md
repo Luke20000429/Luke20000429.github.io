@@ -2,6 +2,8 @@
 layout: single
 title: "About"
 permalink: /About/
+header:
+  overlay_image: /assets/images/about/night.jpg
 comments: false
 author_profile: true
 ---
