@@ -8,8 +8,7 @@ author_profile: true
 comments: true
 ---
 
-Hope you enjoy!
-
+These blogs are written to log my study during research for future reference. Hope you can also enjoy! 
 
 <ul>
   {% for post in site.posts %}
