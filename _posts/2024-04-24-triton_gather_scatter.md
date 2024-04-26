@@ -293,7 +293,7 @@ As you can see, only the selected "columns" are assigned values.
 
 The time consumption grows linearly with the size of index vector.
 
-![image](assets/images/blogs/2024-04-24-triton_gather_scatter/time_compare.png)
+![image](/assets/images/blogs/2024-04-24-triton_gather_scatter/time_compare.png)
 
 ## Final Implementation
 
