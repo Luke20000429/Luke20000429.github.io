@@ -370,7 +370,8 @@ def indexed_matmul_kernel(
         GROUP_SIZE_M: tl.constexpr,  #
 ):
     """Kernel for computing the matmul C = A x B.
-    A has shape (M, K), B has shape (K, N) and C has shape (M, N)
+    A has shape (M, K), B, C are transposed as:
+        B has shape (N, K) and C has shape (N, M)
     """
     # -----------------------------------------------------------
     # Map program ids `pid` to the block of C it should compute.
