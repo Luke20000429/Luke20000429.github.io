@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Efficient Gather-scatter Matrix Multiplication Kernel with Triton"
-date:   2024-03-25
+date:   2024-04-24
 author_profile: true
 comments: true
 tags: [CUDA, Triton, GEMM, Pytorch]
