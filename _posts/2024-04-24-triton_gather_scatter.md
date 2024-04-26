@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Efficient Gather-scatter Matrix Multiplication Kernel with Triton"
+title:  "Efficient Gather-and-scatter Matrix Multiplication Kernel with Triton"
 date:   2024-04-24
 author_profile: true
 comments: true
@@ -11,7 +11,7 @@ This post is to log my implementation of gather-and-scatter matrix multiplicatio
 
 ## Intro
 
-**Gather-and-scatter** matrix multiplication is an essential operation in improving the efficiency of machine learning. For example, if you have a matrix of input features `A` and you only want to get the multiplication with a few columns of weight matrix `B`, you should skip the other columns to save I/O and computation power. 
+**Gather-and-scatter** matrix multiplication is an essential operation in improving the efficiency of machine learning. For example, if you have a matrix of input features `A` and you only want to multiply it with a few columns of a weight matrix `B`, you should skip the other columns to save I/O and computation power. 
 
 Some easy-to-implement options to achieve this goal:
 
