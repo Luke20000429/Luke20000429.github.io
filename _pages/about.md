@@ -13,11 +13,11 @@ My name is Xueshen Liu (刘学深). I am a third-year Ph.D. candidate in Compute
 ### Education:
 
 - **University of Michigan** (2022 - )   
-  Ph.D of Computer Science & Engineering
+  Ph.D of Computer Science & Engineering (CSE)
 - **University of Michigan** (2020 - 2022)   
-  Bachelor of Computer Science 
+  Bachelor of Computer Science (CS)
 - **Shanghai Jiao Tong University** (2018 - 2022)   
-  Bachelor of Electric & Computer Engineering 
+  Bachelor of Electric & Computer Engineering (ECE)
 
 ### Projects:
 - [**Low-cost MoE Training**](https://github.com/Luke20000429/MoE-Training):      
@@ -30,3 +30,7 @@ My name is Xueshen Liu (刘学深). I am a third-year Ph.D. candidate in Compute
     Minimap2-gigabase (mm2-gb) is based on minimap2-v2.24 with GPU accelerated chaining kernel for high throughput accurate mapping of ultra-long reads.
 - [**IMAGician**](https://github.com/gty929/IMAGician):      
     IMAGician is an Android App based on Image Steganography Technology. It embeds invisible watermarks in images to protect copyright of creators. Check our [demo video](https://www.youtube.com/watch?v=FsU-6BkyvHQ) on Youtube. 
+
+### Services:
+- **Reviewer** for ICLR'25, COLING'25.
+- **Graduate Student Instructor** for CSE 589 (Advanced Computer Networks) in UMich.
