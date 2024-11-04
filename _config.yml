@@ -27,8 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  Luke20000429
-repository: Luke20000429/Luke20000429.github.io
+github_username:  xenshinu
+repository: xenshinu/xenshinu.github.io
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -51,7 +51,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Luke20000429"
+  github           : "xenshinu"
   google_plus      :
   keybase          :
   instagram        : "xenshinu.liu"
