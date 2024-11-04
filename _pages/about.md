@@ -20,17 +20,18 @@ My name is Xueshen Liu (刘学深). I am a third-year Ph.D. candidate in Compute
   Bachelor of Electric & Computer Engineering (ECE)
 
 ### Projects:
-- [**Low-cost MoE Training**](https://github.com/Luke20000429/MoE-Training):      
+- [**Low-cost Distributed MoE Training**](https://github.com/Luke20000429/MoE-Training) (April 2024 - Present):   
     On-going project to reduce the cost of training MoE models by 50%.
-- [**Computation-awared KV Cache (CAKE) Loader**](https://github.com/Luke20000429/CAKE-stream):    
+- [**Computation-awared KV Cache (CAKE) Loader**](https://github.com/Luke20000429/CAKE-stream) (Sept. 2024 - Present):    
     CAKE is a novel KV cache loader that reduces LLM prefill latency on long-context through a bidirectional KV cache generation strategy overlapping computation and I/O transfer.
-- [**Learn To be Efficienct (LTE)**](https://github.com/haizhongzheng/LTE):     
+- [**Learn To be Efficienct (LTE)**](https://github.com/haizhongzheng/LTE) (Mar. 2024 - Dec. 2024):     
     Learn-To-be-Efficient (LTE) trains LLMs to activate fewer neurons while maintaining performance through structured sparsity, achieving linear speedup with our custom CUDA kernel.
-- [**Minimap2-gigabase**](https://github.com/Minimap2onGPU/minimap2.git):      
+- [**Minimap2-gigabase**](https://github.com/Minimap2onGPU/minimap2.git) (May 2022 - April 2024):      
     Minimap2-gigabase (mm2-gb) is based on minimap2-v2.24 with GPU accelerated chaining kernel for high throughput accurate mapping of ultra-long reads.
-- [**IMAGician**](https://github.com/gty929/IMAGician):      
+- [**IMAGician**](https://github.com/gty929/IMAGician):      (Jan. 2022 - May 2022)
     IMAGician is an Android App based on Image Steganography Technology. It embeds invisible watermarks in images to protect copyright of creators. Check our [demo video](https://www.youtube.com/watch?v=FsU-6BkyvHQ) on Youtube. 
 
-### Services:
-- **Reviewer** for ICLR'25, COLING'25.
-- **Graduate Student Instructor** for CSE 589 (Advanced Computer Networks) in UMich.
+### Experience:
+- **Reviewer** for ICLR'25, COLING'25 (Oct. 2024)
+- **Graduate Student Instructor** for CSE 589 (Advanced Computer Networks) in UMich (Sept. 2024 - Dec. 2024)
+- **Connected Autonomous Vehicle (CAV) Research Intern** at General Motors (May 2024 - Aug. 2024)
