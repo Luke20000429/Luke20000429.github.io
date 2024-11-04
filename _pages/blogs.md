@@ -3,7 +3,7 @@ title:  "Blogs"
 layout: archive
 permalink: /Blogs/
 header:
-  overlay_image: /assets/images/about/sunshine.jpg
+  overlay_image: /assets/images/about/night.jpg
 author_profile: true
 comments: true
 ---
