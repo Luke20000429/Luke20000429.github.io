@@ -3,7 +3,7 @@ layout: single
 title: "About"
 permalink: /About/
 header:
-  overlay_image: /assets/images/about/selfie-enhance.png
+  overlay_image: /assets/images/about/selfie-full.png
 comments: false
 author_profile: true
 ---
