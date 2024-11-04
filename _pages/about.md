@@ -28,7 +28,7 @@ My name is Xueshen Liu (刘学深). I am a third-year Ph.D. candidate in Compute
     Learn-To-be-Efficient (LTE) trains LLMs to activate fewer neurons while maintaining performance through structured sparsity, achieving linear speedup with our custom CUDA kernel.
 - [**Minimap2-gigabase**](https://github.com/Minimap2onGPU/minimap2.git) (May 2022 - April 2024):      
     Minimap2-gigabase (mm2-gb) is based on minimap2-v2.24 with GPU accelerated chaining kernel for high throughput accurate mapping of ultra-long reads.
-- [**IMAGician**](https://github.com/gty929/IMAGician):      (Jan. 2022 - May 2022)
+- [**IMAGician**](https://github.com/gty929/IMAGician) (Jan. 2022 - May 2022):          
     IMAGician is an Android App based on Image Steganography Technology. It embeds invisible watermarks in images to protect copyright of creators. Check our [demo video](https://www.youtube.com/watch?v=FsU-6BkyvHQ) on Youtube. 
 
 ### Experience:
