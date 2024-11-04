@@ -3,7 +3,7 @@ layout: single
 title: "About"
 permalink: /About/
 header:
-  overlay_image: /assets/images/about/selfie-full.png
+  overlay_image: /assets/images/about/selfie-wide.png
 comments: false
 author_profile: true
 ---
@@ -12,7 +12,7 @@ My name is Xueshen Liu (刘学深). I am a third-year Ph.D. candidate in Compute
 
 ### Education:
 
-- **University of Michigan** (2022 - )   
+- **University of Michigan** (2022 - Present)   
   Ph.D of Computer Science & Engineering (CSE)
 - **University of Michigan** (2020 - 2022)   
   Bachelor of Computer Science (CS)
