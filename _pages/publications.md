@@ -10,12 +10,12 @@ author_profile: true
 
 ## Publications (\* indicates equal contribution)
 
-1. **Compute Or Load KV Cache? Why Not Both?**  
+1. **Compute Or Load KV Cache? Why Not Both? (*Cake*)**  
    S Jin\*, **X Liu**\*, Q Zhang, ZM Mao  
    *arXiv preprint arXiv:2410.03065*  
    [Paper](https://arxiv.org/abs/2410.03065)
 
-2. **Learn to be efficient: Build structured sparsity in large language models**  
+2. **Learn to be efficient: Build structured sparsity in large language models (*LTE*)**  
    H Zheng, X Bai, **X Liu**, ZM Mao, B Chen, F Lai, A Prakash  
    *NeurIPS 2024 Spotlight*  
    [Paper](https://arxiv.org/abs/2402.06126)
