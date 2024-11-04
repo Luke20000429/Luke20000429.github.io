@@ -6,6 +6,8 @@ main:
     url:  /About/
   - title: "Blogs"
     url: /Blogs/
+  - title: "Publications"
+    url: /Publications/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

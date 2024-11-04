@@ -21,6 +21,8 @@ My name is Xueshen Liu (刘学深). I am a second-year Ph.D. candidate in Comput
 
 ### Software:
 
+- [**Learn To be Efficienct (LTE)**](https://github.com/haizhongzheng/LTE):
+    Learn-To-be-Efficient (LTE) is designed to train efficiency-aware LLMs to learn to activate fewer neurons and achieve a better trade-off between sparsity and performance. We prove that LLMs can learn to be efficient by achieving more structured activation sparsity, which translates to linear speedup in latency through our customized CUDA kernel.
 - [**Minimap2-gigabase**](https://github.com/Minimap2onGPU/minimap2.git):      
     Minimap2-gigabase (mm2-gb) is based on minimap2-v2.24 with GPU accelerated chaining kernel for high throughput accurate mapping of ultra-long reads.
 - [**IMAGician**](https://github.com/gty929/IMAGician):      
