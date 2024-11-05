@@ -25,7 +25,7 @@ My name is Xueshen Liu (刘学深). I am a third-year Ph.D. candidate in Compute
 - [**Computation-awared KV Cache (CAKE) Loader**](https://github.com/Luke20000429/CAKE-stream) (Sept. 2024 - Present):    
     CAKE is a novel KV cache loader that reduces LLM prefill latency on long-context through a bidirectional KV cache generation strategy overlapping computation and I/O transfer.
 - [**Learn To be Efficienct (LTE)**](https://github.com/haizhongzheng/LTE) (Mar. 2024 - Dec. 2024):     
-    Learn-To-be-Efficient (LTE) trains LLMs to activate fewer neurons while maintaining performance through structured sparsity, achieving linear speedup with our custom CUDA kernel.
+    Learn-To-be-Efficient (LTE) trains LLMs to activate fewer neurons through structured sparsity while maintaining performance, achieving linear speedup with our custom CUDA kernel.
 - [**Minimap2-gigabase**](https://github.com/Minimap2onGPU/minimap2.git) (May 2022 - April 2024):      
     Minimap2-gigabase (mm2-gb) is based on minimap2-v2.24 with GPU accelerated chaining kernel for high throughput accurate mapping of ultra-long reads.
 - [**IMAGician**](https://github.com/gty929/IMAGician) (Jan. 2022 - May 2022):          
